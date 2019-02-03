@@ -327,7 +327,7 @@ footer a {
 }
 
 #box-2a {
-
+  display: inline-block;
   width: 33%
   margin: 0 0 20px 0;
 }
