@@ -321,15 +321,13 @@ footer a {
 /* code examples copyright Jonathan Grover 2012 */
 
 #box-1a {
-  display: block;
-  float: left;
-  width: 78%;
+  display: inline-block;
+  width: 69%;
   margin: auto
 }
 
 #box-2a {
-  display: block;
-  float: right;
+  display: inline-block;
   width: 31%
   margin: 0 0 20px 0;
 }
