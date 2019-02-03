@@ -342,4 +342,6 @@ footer a {
 #box-1b {
   display: inline-block;
   float: left;
+  width: 30%;
+  margin: 2% 2% 0 0;
 }
