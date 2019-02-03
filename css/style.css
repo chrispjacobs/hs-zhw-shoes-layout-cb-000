@@ -320,3 +320,13 @@ footer a {
 }
 
 /* code examples copyright Jonathan Grover 2012 */
+
+#box-1 {
+  display: block;
+  float: left;
+}
+
+#box-2 {
+  display: block;
+  float: right;
+}
