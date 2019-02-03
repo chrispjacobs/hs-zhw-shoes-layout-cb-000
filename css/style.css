@@ -330,3 +330,7 @@ footer a {
   display: block;
   float: right;
 }
+
+#grass-img {
+  width: 30%;
+}
