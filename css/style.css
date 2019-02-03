@@ -323,6 +323,8 @@ footer a {
 #box-1 {
   display: block;
   float: left;
+  width: 65%;
+  margin: 4%;
 }
 
 #box-2 {
